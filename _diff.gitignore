@@ -1,7 +1,3 @@
---- .gitignore (原始)
-
-
-+++ .gitignore (修改后)
 ```
 # Compiled Python files
 *.pyc
